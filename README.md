@@ -5,7 +5,7 @@ Built with modern AI tools like ChatGPT API and Gemini, alongside a React fronte
 
 The project emphasizes responsible AI practices by including disclaimers, bias detection, and validation steps. Users are encouraged to review and customize AI-generated content to ensure accuracy and authenticity. Transparency is built into the workflow by showing prompt structures and providing a review checklist before final export.
 The AI Career Assistant delivers measurable productivity gains and industry relevance:
-
+#Impact
 Time Saved → Reduces resume drafting and cover letter writing from hours to minutes.
 
 Quality Improved → Produces ATS-optimized, professional, and tailored outputs that increase job application success rates.
