@@ -7,8 +7,8 @@ The project emphasizes responsible AI practices by including disclaimers, bias d
 
 The AI Career Assistant delivers measurable productivity gains and industry relevance:
 
-Time Saved → Reduces resume drafting and cover letter writing from hours to minutes
-.
+Time Saved → Reduces resume drafting and cover letter writing from hours to minutes.
+
 Quality Improved → Produces ATS-optimized, professional, and tailored outputs that increase job application success rates.
 
 Efficiency Boost → Structured job search plans and meeting summaries reduce missed deadlines and improve organization.
